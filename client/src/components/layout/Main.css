@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  /* background: url('../../images/bg.avif'); */
+  background: rgba(216, 67, 21, 0.9);
+  /* background: rgba(254, 86, 34); */
+}
+
+#login {
+  width: 65px;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
